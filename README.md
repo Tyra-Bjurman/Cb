@@ -1,2 +1,2 @@
 # Cb
-C flat - A functional programming paradigm library for C
+C flat - A functional base library for C
