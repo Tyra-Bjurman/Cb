@@ -1,6 +1,6 @@
 
-#ifndef CB_TYPE_H
-#define CB_TYPE_H
+#ifndef DATATYPE_H
+#define DATATYPE_H
 
 // Variables
 #define u8_t   /* ??? */
@@ -13,8 +13,8 @@
 #define s32_t
 #define s64_t
 
-struct float_t {
+typedef struct {
     
-}
+} float_t;
 
-#endif //_CB_TYPE_H
+#endif // DATATYPE_H
