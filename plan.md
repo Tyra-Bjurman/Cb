@@ -1,3 +1,7 @@
+# harware.h
+* Graphics acceleration
+* Linux
+
 # text.h
 * Print
 * Log
