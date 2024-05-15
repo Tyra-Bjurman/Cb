@@ -1,6 +1,7 @@
 # harware.h
 * Graphics acceleration
-* Linux
+* Linux VGA output
+* Windows VGA output
 
 # text.h
 * Print
@@ -12,6 +13,7 @@
 * Lines
 * Polygons
 * Transperency effects
+* Sprite animations
 ## 3D graphics rendering
 * Vertices
 * Edges
@@ -26,3 +28,6 @@
 * Linear algebra
 * Trigonometry
 * Matrix operations
+
+# memory.h
+* Allocate / free memory
